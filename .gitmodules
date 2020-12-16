@@ -1,0 +1,3 @@
+[submodule "ZakatAccounting"]
+	path = ZakatAccounting
+	url = git@github.com:vzool/ZakatAccounting.git
